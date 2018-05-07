@@ -11,5 +11,6 @@ The database we have come to build, is a game store database. It is made for the
 ![alt text](http://github.com/hy30305340/GamePortal/raw/master/images/userPage.jpg)
 <p align="center">
   <img src="http://github.com/hy30305340/GamePortal/raw/master/images/userPage.jpg" width="30%" height="30%"/>
-  <img src="http://github.com/hy30305340/GamePortal/raw/master/images/userPage2.jpg" width="30%" height="30%"/>
+  <img src="http://github.com/hy30305340/GamePortal/images/userPage2.jpg" width="30%" height="30%"/>
 </p>
+
